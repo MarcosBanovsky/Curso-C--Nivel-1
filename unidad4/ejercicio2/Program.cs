@@ -12,5 +12,32 @@ Hacer un programa que solicite el ingreso del importe total de la venta y la can
 y calcule y emita el importe con el descuento  aplicado..
 
 */
-Console.WriteLine("Hello, World!");
+
+int litros;
+float venta;
+float precioDescuento;
+Console.WriteLine("Ingrese importe de venta: ");
+venta = float.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese Litros vendidos: ");
+litros = int.Parse(Console.ReadLine());
+
+if (litros > 100 && litros <=300) 
+{
+    precioDescuento = venta - ((venta * 10)/100);
+    Console.WriteLine("El precio con descuento es: " + precioDescuento);
+}else if (litros > 300 && litros <=500)
+{
+    precioDescuento = venta - ((venta * 15)/100);
+    Console.WriteLine("El precio con descuento es: " + precioDescuento);
+
+}else if (litros > 500)
+{
+    precioDescuento = venta - ((venta * 25)/100);
+    Console.WriteLine("El precio con descuento es: " + precioDescuento);  
+}else
+{
+    precioDescuento = venta;
+    Console.WriteLine("El precio no tiene descuento: " + precioDescuento);  
+
+}
 
