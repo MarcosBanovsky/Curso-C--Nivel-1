@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\Curso C# Nivel 1\\unidad3\\ejercicio2\\ejercicio2.csproj": {}
+    "C:\\Users\\Mark\\Desktop\\Curso C#\\Curso-C--Nivel-1\\unidad3\\ejercicio2\\ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\Curso C# Nivel 1\\unidad3\\ejercicio2\\ejercicio2.csproj": {
+    "C:\\Users\\Mark\\Desktop\\Curso C#\\Curso-C--Nivel-1\\unidad3\\ejercicio2\\ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Curso C# Nivel 1\\unidad3\\ejercicio2\\ejercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Desktop\\Curso C#\\Curso-C--Nivel-1\\unidad3\\ejercicio2\\ejercicio2.csproj",
         "projectName": "ejercicio2",
-        "projectPath": "C:\\Users\\marco\\Desktop\\Curso C# Nivel 1\\unidad3\\ejercicio2\\ejercicio2.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\Curso C# Nivel 1\\unidad3\\ejercicio2\\obj\\",
+        "projectPath": "C:\\Users\\Mark\\Desktop\\Curso C#\\Curso-C--Nivel-1\\unidad3\\ejercicio2\\ejercicio2.csproj",
+        "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark\\Desktop\\Curso C#\\Curso-C--Nivel-1\\unidad3\\ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
